@@ -1,6 +1,6 @@
 import UIKit
 
-// variables & Constants
+//variables & Constants
 
 //snake_case
 //camelCase
@@ -44,5 +44,4 @@ userAgeD / myNumberD
 //boolean
 var myBoolean = false
 myBoolean = true
-
 
