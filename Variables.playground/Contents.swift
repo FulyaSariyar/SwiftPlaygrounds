@@ -1,5 +1,5 @@
 import UIKit
-
+ //--------------------- PART 1 -----------------
 //variables & Constants
 
 //snake_case
@@ -44,4 +44,20 @@ userAgeD / myNumberD
 //boolean
 var myBoolean = false
 myBoolean = true
+
+ //-------------------------- PART 2 ----------------------
+
+var myString : String = "50"
+var anotherNumber : Int = 10
+var anotherNumber1 : Int = Int(10.5)
+
+let stringNumber : String = String(20)
+
+let myVariable: String
+
+//initialization
+
+myVariable = "Test"
+myVariable.uppercased()
+print(myVariable)
 
