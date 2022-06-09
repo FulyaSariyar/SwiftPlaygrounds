@@ -1,7 +1,19 @@
 import UIKit
 
-var greeting = "Hello, playground"
+// variables & Constants
 
-var myNumber = 5 * 4
-print(myNumber)
-50 * 10
+//snake_case
+//camelCase
+
+var userName = "James"
+var userSurname = "Hetfield"
+print(userName, userSurname)
+
+
+userSurname = "Lars" // var değişkenlerinin değerleri sonradan değiştirilebilir.
+
+let userAge = 30
+
+// userAge = 50 yazamayız. HATA!
+
+let pi = 3.14
