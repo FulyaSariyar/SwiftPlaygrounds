@@ -61,3 +61,23 @@ myVariable = "Test"
 myVariable.uppercased()
 print(myVariable)
 
+//------------------- ARRAYS --------------------
+
+var myFavoriMovies = ["Pulp Fiction","Kill Bill","Reservoir Dogs",5] as [Any]
+
+//as -> casting
+//any -> any object
+
+//index dizilerde indexler 0'dan başlar
+myFavoriMovies[0]
+myFavoriMovies[1]
+myFavoriMovies[2]
+myFavoriMovies[3]
+
+
+var myStringArray=["Test", "Test2", "Test3"]
+myStringArray[0].uppercased()
+myStringArray.count
+myStringArray[ myStringArray.count - 1 ]
+myStringArray.last
+myStringArray.sort()
