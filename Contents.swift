@@ -20,4 +20,3 @@ else  if myAge > 30 && myAge < 40{
 if myString == "James"{
     print("yes")
 }
-
